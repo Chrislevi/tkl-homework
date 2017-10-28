@@ -1,4 +1,4 @@
 ---
 - hosts: infra
   roles:
-  - httpd
+  - http
